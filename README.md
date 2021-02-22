@@ -14,5 +14,5 @@ we propose Grouping Stale Synchronous Parallel (GSSP) scheme, which groups edge 
 1. `pip install -r requirements.txt`
 
 2. Run `python gssp.py` for simple GSSP. And run `python gdtopk.py` for GDTopK on top of GSSP.
-   For image classification，the codes are in folder `cv`. For machine translation, the codes are in `nlp`. You can change your configurations in python codes.
+   For image classification，the codes are in folder `cv`. For machine translation, the codes are in folder `nlp`. You can change your configurations in python codes.
 
