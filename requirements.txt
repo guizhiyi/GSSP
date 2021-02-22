@@ -1,0 +1,7 @@
+torch == 1.5.1
+numpy
+ray == 0.8.5
+math
+tensorboardX
+torchtext
+
